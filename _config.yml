@@ -1,6 +1,6 @@
 # Site
-name: "rfazriansyah376"
-title: "rfazriansyah376"
+name: "buyutmagah"
+title: "buyutmagah"
 description: "Build relationships, not links"
 logo: '/favicon.ico'
 favicon: '/favicon.ico'
@@ -102,7 +102,7 @@ jekyll-archives:
     category: '{{ site.url }}/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
     
 # Other
